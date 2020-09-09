@@ -1,6 +1,6 @@
 ## Welcome to TECHNICALNINJA
 
-Join our telegram [telegram](http://t.me/technical_ninja.com) to get free stuff and more knowledge
+Join our telegram [telegram](http://t.me/technical_ninja) to get free stuff and more knowledge
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
