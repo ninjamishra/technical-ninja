@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to TECHNICALNINJA
 
-You can use the [editor on GitHub](https://github.com/ninjamishra/technical-ninja/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Join our telegram [telegram](t.me/technical_ninja) to get free stuff and more knowledge
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
